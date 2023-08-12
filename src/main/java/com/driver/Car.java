@@ -32,13 +32,6 @@ public class Car extends Vehicle {
         this.wheels = wheels;
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
 
     public String getType() {
         return type;
